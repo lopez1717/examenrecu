@@ -1,0 +1,52 @@
+#footer {
+    background-color: orange;
+
+}
+
+#a {
+    text-decoration: none;
+    color: rgb(255, 255, 255); 
+    
+}
+
+#h1 {
+    text-align: center;
+}
+
+#li {
+    text-align: center;
+}
+
+#tarjeta {
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-between;
+    width: 400px;
+    border: 2px solid rgb(241, 234, 234) ;
+    box-shadow: 2px 2px 7px 4px ;
+    border-radius: 15px;
+    font-family:Arial, Helvetica, sans-serif ;
+    
+}
+
+#titulo {
+    font-size: 25px;
+}
+
+#cuerpo {
+    padding: 10px;
+}
+
+#pie {
+    
+    border-radius:  0 0 15px 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+#imagenes
+{
+   width:350px ; 
+   height:260px ;
+}
+
